@@ -51,7 +51,7 @@ outline: none;
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-size: 17px;
+    font-size: 1.2rem;
     font-family: 'Cinzel', serif;
     font-family: 'DM Sans', sans-serif;
     font-weight: bold;
@@ -73,7 +73,7 @@ outline: none;
     display: flex;
     flex-direction: row;
     gap: 144px;
-    width: 250px;
+    width: 280px;
     height: 75px;
     border: solid var(--paleDogwood) 2px;
     border-radius: 9px;
@@ -96,6 +96,6 @@ outline: none;
     color: var(--lavander);
     font-family: 'Cinzel', serif;
     font-weight: 500;
-    font-size: 13px;
+    font-size: 1rem;
     
 }

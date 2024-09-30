@@ -4,7 +4,7 @@ body{
 }
 .container-social-media{
   gap: 480px;
-  width: 600px;
+  width: 625px;
 }
 .container-texto{
   display: flex;
@@ -13,7 +13,7 @@ body{
   color: var(--lavander);
   font-family: 'Cinzel', serif;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 1.1rem;
   
 }
 .logo-container{
