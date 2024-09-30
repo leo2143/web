@@ -56,5 +56,5 @@
 }
 .container-social-media:hover .container-texto {
     color: var(--darkCyan);
-    
+    font-weight: bold;
 }  
